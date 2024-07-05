@@ -2,5 +2,5 @@
 // Hello World Program
 
 fun main(args : Array<String>) {
-    println("Hello, World=--222")
+    println("Hello, World=--")
 }
